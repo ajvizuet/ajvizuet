@@ -11,6 +11,9 @@ proyectos y mis intereses.
 * Lugar de residencia: Guayaquil, Ecuador
 * Sitio web: [Tu sitio web]
 ## Proyectos
-* [Lista de tus proyectos]
+* Renta un cuento (enlace)
 ## Intereses
-* [Lista de tus intereses]
+* Desarrollo Web 
+* IoT (Internet of things)
+* Microcontroladores
+* Desarrollo de APIs
