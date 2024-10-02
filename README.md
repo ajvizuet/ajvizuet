@@ -9,7 +9,7 @@ proyectos y mis intereses.
 * Nombre: Alex Vizuete
 * Ocupación: Estudiante de computación
 * Lugar de residencia: Guayaquil, Ecuador
-* Sitio web: [Tu sitio web]
+* Sitio web: https://ajvizuet.github.io/ajvizuet/
 ## Proyectos
 * Renta un cuento (enlace)
 ## Intereses
