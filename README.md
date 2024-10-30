@@ -11,7 +11,7 @@ proyectos y mis intereses.
 * Lugar de residencia: Guayaquil, Ecuador
 * Sitio web: https://ajvizuet.github.io/ajvizuet/
 ## Proyectos
-* Renta un cuento (enlace)
+* Curriculum ([enlace](https://ajvizuet.github.io/Curriculum/))
 ## Intereses
 * Desarrollo Web 
 * IoT (Internet of things)
