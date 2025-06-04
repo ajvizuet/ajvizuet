@@ -1,10 +1,10 @@
 # My personal site
 This is my personal site where you can find information about me, my projects, and interests.
-## Contenido
+## Content
 * [Personal_Information](#información-personal)
 * [Projects](#proyectos)
 * [Interests](#intereses)
-## Información personal
+## Personal Information
 * Name: Alex Vizuete
 * Occupation: Estudiante de computación
 * Residency: Guayaquil, Ecuador
