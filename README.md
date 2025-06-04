@@ -1,38 +1,32 @@
-# Mi sitio personal
-Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
-proyectos y mis intereses.
+# My personal site
+This is my personal site where you can find information about me, my projects, and interests.
 ## Contenido
-* [Información personal](#información-personal)
-* [Proyectos](#proyectos)
-* [Intereses](#intereses)
+* [Personal_Information](#información-personal)
+* [Projects](#proyectos)
+* [Interests](#intereses)
 ## Información personal
-* Nombre: Alex Vizuete
-* Ocupación: Estudiante de computación
-* Lugar de residencia: Guayaquil, Ecuador
-* Sitio web: https://ajvizuet.github.io/ajvizuet/
-## Proyectos
-* Curriculum:
-  Hoja de vide que incluye experiencia, proyecto elaborados y métodos de contacto. Elaborada
-  usando HTML, CSS y JavaScript vanilla. [Enlace al repositorio](https://github.com/ajvizuet/Curriculum)
-* Landing Page:
-  Landing Page de tienda online de café, cafeteras y tazas. El sitio web también provee un servicio
-  de suscripción a través de un formulario y muestra información acerca de los suscriptores en una
-  tabla. Se utilizó HTML (Plantilla predeterminada), Bootstrap (CSS), y JavaScript.
-  [Enlace al repositorio](https://github.com/ajvizuet/landing)
-* Dashboard:
-  Dashboard acerca del pronóstico del clima que realiza peticiones HTTP a un API remota. Muestra la
-  información en el dashboard con gráficos y tablas descriptivas según variables que el usuario puede
-  escoger. Las tecnologías usadas para este proyecto fueron: HTML, CSS y REACT con TypeScript para
-  diseñar el layout de la interfaz. [Enlace al repositorio](https://github.com/ajvizuet/dashboard)
-## Tecnologías aprendidas
-* HTML: Tecnología usada para crear la estructura básica y semántica de todos los proyectos elaborados.
-* CSS: Usado para crear estilos personalizados en todos los proyectos a los componentes HTML.
-* Bootstrap: Librería CSS con estilos predeterminados para un desarrollo frontend más rápido.
-* JavaScript: Lenguaje para agregar dinamismo y flujos lógicos a los proyectos (sobretodo en la landing page).
-* React (con TypeScript): Framework para diseñar interfaces rápidas y responsivas basadas en componentes,
-  intengrando HTML con TypeScript. Se utilizó en el diseño del dashboard.
-## Intereses
-* Desarrollo Web 
-* IoT (Internet of things)
-* Microcontroladores
-* Desarrollo de APIs
+* Name: Alex Vizuete
+* Occupation: Estudiante de computación
+* Residency: Guayaquil, Ecuador
+* Website: https://ajvizuet.github.io/ajvizuet/
+## Projects
+* Curriculum:  
+  Resume that includes experience, completed projects, and contact methods. Created using HTML, CSS, and vanilla JavaScript. [Repository link](https://github.com/ajvizuet/Curriculum)
+* Landing Page:  
+  Landing page for an online store selling coffee, coffee makers, and mugs. The website also offers a subscription service through a form and displays subscriber information in a table. It uses HTML (default template), Bootstrap (CSS), and JavaScript.  
+  [Repository link](https://github.com/ajvizuet/landing)
+* Dashboard:  
+  Dashboard about weather forecasting that makes HTTP requests to a remote API. It displays information on the dashboard with charts and descriptive tables based on variables the user can select. Technologies used in this project were: HTML, CSS, and REACT with TypeScript to design the interface layout. [Repository link](https://github.com/ajvizuet/dashboard)
+
+## Learned Technologies
+* HTML: Technology used to create the basic and semantic structure of all developed projects.
+* CSS: Used to create custom styles for all projects’ HTML components.
+* Bootstrap: CSS library with predefined styles for faster frontend development.
+* JavaScript: Language to add dynamism and logical flows to the projects (mainly in the landing page).
+* React (with TypeScript): Framework to design fast and responsive component-based interfaces, integrating HTML with TypeScript. It was used in the dashboard design.
+
+## Interests
+* Web Development
+* IoT (Internet of Things)
+* Microcontrollers
+* API Development
